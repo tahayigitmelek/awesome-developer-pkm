@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome tools, workflows, and materials for Developer Personal Knowledge Management (PKM) and building a developer's "Second Brain".
+A list of tools, workflows, and materials for Developer Personal Knowledge Management (PKM) and building a developer's "Second Brain".
 
 The goal of Developer PKM is to methodically record architectures, learning notes, code snippets, and project documentation in a way that is future-proof and readily retrievable.
 
