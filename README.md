@@ -1,8 +1,6 @@
-# Awesome Developer PKM
+# Awesome Developer PKM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-A list of tools, workflows, and materials for Developer Personal Knowledge Management (PKM) and building a developer's "Second Brain".
+A curated list of awesome tools, workflows, and materials for Developer Personal Knowledge Management (PKM) and building a developer's "Second Brain".
 
 The goal of Developer PKM is to methodically record architectures, learning notes, code snippets, and project documentation in a way that is future-proof and readily retrievable.
 
@@ -49,18 +47,18 @@ The goal of Developer PKM is to methodically record architectures, learning note
 - [Pocket](https://getpocket.com/) - You can save articles, videos, and stories from any app, page, or publication to read later.
 - [Raindrop.io](https://raindrop.io/) - An all-in-one bookmark manager that works well for saving GitHub repos, tech articles, and references with a strong tagging system.
 - [Readwise](https://readwise.io/) - Automatically sends highlights from technical books, articles, and documentation straight to your favorite PKM tool.
-- [Wallabag](https://github.com/wallabag/wallabag) is a self-hosted read-it-later app that lets you search for full text and export to Markdown.
+- [Wallabag](https://github.com/wallabag/wallabag) - A self-hosted read-it-later app that lets you search for full text and export to Markdown.
 
 ## Browser Extensions
 
 - [Glasp](https://glasp.co/) - A social web highlighter that lets you highlight and organize quotes and ideas from the web and share them with other people.
 - [Hypothesis](https://web.hypothes.is/) - Work together to add notes and highlights to any webpage or PDF on the web.
-- [MarkDownload](https://github.com/deathau/markdownload) is a browser extension that lets you clip web pages as Markdown files that can be used with any note-taking app.
-- [Notion Web Clipper](https://www.notion.so/web-clipper) lets you save any web page directly to your Notion workspace using templates that you can change.
+- [MarkDownload](https://github.com/deathau/markdownload) - A browser extension that lets you clip web pages as Markdown files that can be used with any note-taking app.
+- [Notion Web Clipper](https://www.notion.so/web-clipper) - Save any web page directly to your Notion workspace using templates that you can change.
 
 ## Diagrams as Code
 
-- [D2](https://github.com/terrastruct/d2) A modern diagram scripting language that makes diagrams from text, with a focus on software architecture.
+- [D2](https://github.com/terrastruct/d2) - A modern diagram scripting language that makes diagrams from text, with a focus on software architecture.
 - [Draw.io/diagrams.net](https://www.drawio.com/) - A free, open-source diagramming tool that works on both desktop and web and can export to a lot of different formats.
 - [Excalidraw](https://github.com/excalidraw/excalidraw) - A virtual whiteboard tool that lets you work together to make diagrams and architectural sketches that look like they were drawn by hand.
 - [Graphviz](https://graphviz.org/) - Software for visualizing graphs that is open source and uses the DOT language to show structural information as diagrams.
@@ -70,44 +68,44 @@ The goal of Developer PKM is to methodically record architectures, learning note
 
 ## Flashcards & Spaced Repetition
 
-- [Anki](https://apps.ankiweb.net/) Spaced repetition is a powerful, open-source flashcard program that is perfect for learning programming concepts, algorithms, and system design patterns.
-- [Brainscape](https://www.brainscape.com/) Adaptive spaced repetition and collaborative deck sharing are features of this cloud-based flashcard platform.
-- [Mochi](https://mochi.cards/) Spaced repetition flashcards and Markdown notes are combined into a single, tidy interface.
-- [RemNote](https://www.remnote.com/) A note-taking application that uses spaced repetition to automatically create flashcards from your notes.
+- [Anki](https://apps.ankiweb.net/) - A powerful, open-source flashcard program with spaced repetition that is perfect for learning programming concepts, algorithms, and system design patterns.
+- [Brainscape](https://www.brainscape.com/) - A cloud-based flashcard platform with adaptive spaced repetition and collaborative deck sharing.
+- [Mochi](https://mochi.cards/) - Spaced repetition flashcards and Markdown notes combined into a single, tidy interface.
+- [RemNote](https://www.remnote.com/) - A note-taking application that uses spaced repetition to automatically create flashcards from your notes.
 
 ## Knowledge Bases & Wikis
 
-- [BookStack] (https://github.com/BookStackApp/BookStack) A self-hosted platform for structured, book-like information organization and storage.
-- [Docmost] (https://github.com/docmost/docmost) A real-time collaborative wiki and documentation software that is open-source.
-- [Notion](https://www.notion.so/) An all-in-one workspace with robust database features for notes, documents, wikis, and project management.
-- [Outline](https://github.com/outline/outline): An open-source team knowledge base with integrated search and a quick, easy-to-use editor.
-- [Wiki.js](https://github.com/requarks/wiki): This robust, extensible, and aesthetically pleasing open-source wiki is based on Node.js.
+- [BookStack](https://github.com/BookStackApp/BookStack) - A self-hosted platform for structured, book-like information organization and storage.
+- [Docmost](https://github.com/docmost/docmost) - A real-time collaborative wiki and documentation software that is open-source.
+- [Notion](https://www.notion.so/) - An all-in-one workspace with robust database features for notes, documents, wikis, and project management.
+- [Outline](https://github.com/outline/outline) - An open-source team knowledge base with integrated search and a quick, easy-to-use editor.
+- [Wiki.js](https://github.com/requarks/wiki) - A robust, extensible, and aesthetically pleasing open-source wiki based on Node.js.
 
 ## Knowledge Graphs & Visualization
 
-- [Foam] (https://github.com/foambubble/foam) A graph-visualized system for managing and sharing personal knowledge in Visual Studio Code.
-- [Heptabase](https://heptabase.com/) A visual note-taking tool that helps you make sense of complex information and arrange topics on whiteboards.
-- [Kumu](https://kumu.io/) A robust platform for mapping relationships and systems using data visualization.
-- [Scapple](https://www.literatureandlatte.com/scapple/overview) is a freeform note-mapping tool that helps you quickly jot down ideas and connect them.
+- [Foam](https://github.com/foambubble/foam) - A graph-visualized system for managing and sharing personal knowledge in Visual Studio Code.
+- [Heptabase](https://heptabase.com/) - A visual note-taking tool that helps you make sense of complex information and arrange topics on whiteboards.
+- [Kumu](https://kumu.io/) - A robust platform for mapping relationships and systems using data visualization.
+- [Scapple](https://www.literatureandlatte.com/scapple/overview) - A freeform note-mapping tool that helps you quickly jot down ideas and connect them.
 
 ## Note-Taking & Markdown Editors
 
-- [Anytype](https://anytype.io/) Peer-to-peer, local-first, end-to-end encrypted knowledge manager with an adaptable structure based on objects.
-- [Dendron] (https://github.com/dendronhq/dendron) Built on top of Visual Studio Code, this note-taking tool is hierarchical, developer-focused, and organized using a schema.
-- [Joplin] (https://github.com/laurent22/joplin) An open-source note-taking and to-do app with end-to-end encryption and synchronization features.
-- [Logseq](https://github.com/logseq/logseq): An open-source, privacy-focused platform for outliner-based knowledge management and collaboration.
-- [Obsidian](https://obsidian.md/) A robust knowledge base with a rich plugin ecosystem built on top of a local folder containing plain text Markdown files.
-- [SilverBullet](https://github.com/silverbulletmd/silverbullet) A personal knowledge platform designed for hackers that is open-source and extensible.
-- [Trilium Notes](https://github.com/TriliumNext/Trilium) is a highly scriptable, hierarchical note-taking tool that focuses on creating extensive personal knowledge bases.
-- [Typora](https://typora.io/) A simple Markdown editor that provides a smooth live preview for technical writing without interruptions.
-- [Zettlr](https://github.com/Zettlr/Zettlr): An open-source Markdown editor with Zettelkasten support for academic writing and note-taking.
+- [Anytype](https://anytype.io/) - A peer-to-peer, local-first, end-to-end encrypted knowledge manager with an adaptable structure based on objects.
+- [Dendron](https://github.com/dendronhq/dendron) - A hierarchical, developer-focused note-taking tool built on top of Visual Studio Code, organized using a schema.
+- [Joplin](https://github.com/laurent22/joplin) - An open-source note-taking and to-do app with end-to-end encryption and synchronization features.
+- [Logseq](https://github.com/logseq/logseq) - An open-source, privacy-focused platform for outliner-based knowledge management and collaboration.
+- [Obsidian](https://obsidian.md/) - A robust knowledge base with a rich plugin ecosystem built on top of a local folder containing plain text Markdown files.
+- [SilverBullet](https://github.com/silverbulletmd/silverbullet) - A personal knowledge platform designed for hackers that is open-source and extensible.
+- [Trilium Notes](https://github.com/TriliumNext/Trilium) - A highly scriptable, hierarchical note-taking tool that focuses on creating extensive personal knowledge bases.
+- [Typora](https://typora.io/) - A simple Markdown editor that provides a smooth live preview for technical writing without interruptions.
+- [Zettlr](https://github.com/Zettlr/Zettlr) - An open-source Markdown editor with Zettelkasten support for academic writing and note-taking.
 
 ## Offline Documentation
 
-- [Dash](https://kapeli.com/dash) A crucial browser for macOS API documentation and a code snippet manager with incredibly quick offline search.
-- [DevDocs](https://devdocs.io/) A free, open-source web application with offline support that integrates various API documentation into a quick, structured, and searchable interface.
-- [Velocity](https://velocity.silverlakesoftware.com/) Dash-like offline documentation browser for Windows.
-- [Zeal](https://zealdocs.org/) For Windows and Linux, software developers can use this open-source offline documentation browser.
+- [Dash](https://kapeli.com/dash) - A crucial browser for macOS API documentation and a code snippet manager with incredibly quick offline search.
+- [DevDocs](https://devdocs.io/) - A free, open-source web application with offline support that integrates various API documentation into a quick, structured, and searchable interface.
+- [Velocity](https://velocity.silverlakesoftware.com/) - A Dash-like offline documentation browser for Windows.
+- [Zeal](https://zealdocs.org/) - An open-source offline documentation browser for Windows and Linux.
 
 ## Search & Code Indexing
 
@@ -127,7 +125,7 @@ The goal of Developer PKM is to methodically record architectures, learning note
 ## Sync & Backup
 
 - [Duplicati](https://github.com/duplicati/duplicati) - A free, open-source backup client for storing encrypted, incremental, and compressed data in the cloud.
-- [git](https://git-scm.com/) - The most widely used source control system for versioning and backing up your plaintext knowledge base.
+- [Git](https://git-scm.com/) - The most widely used source control system for versioning and backing up your plaintext knowledge base.
 - [Nextcloud](https://nextcloud.com/) - A self-hosted cloud service for file sync, share, and collaborate.
 - [Restic](https://github.com/restic/restic) - A fast, secure, and efficient backup tool.
 - [Syncthing](https://github.com/syncthing/syncthing) - A continuous decentralized file sync tool for raw markdown files.
